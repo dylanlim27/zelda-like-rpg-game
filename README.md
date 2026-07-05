@@ -5,7 +5,7 @@ A top-down action adventure RPG built in Python using the **Pygame** library. Th
 ## 📸 Application Preview
 Here is a preview of the game:
 
-<img src="screenshots/application.png" alt="Video Game" width="50%">
+<img src="screenshots/application.png" alt="Video Game" width="90%">
 
 ## Features
 
