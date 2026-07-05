@@ -2,6 +2,11 @@
 
 A top-down action adventure RPG built in Python using the **Pygame** library. This project features real-time combat, magic casting, an upgrade system, a custom depth-sorting camera, and a dynamic HUD.
 
+## 📸 Application Preview
+Here is a preview of the game:
+
+<img src="screenshots/application.png" alt="Video Game" width="50%">
+
 ## Features
 
 - **Fluid Combat**: Attack enemies in 4 directions using various weapons (Sword, Lance, Axe, Rapier, Sai), each with unique speed, cooldowns, and damage stats.
