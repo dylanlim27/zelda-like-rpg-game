@@ -67,7 +67,3 @@ python code/main.py
 - `graphics/`: Sprites, tile sets, fonts, and animation sheets.
 - `audio/`: Background music, combat sounds, and magic effects.
 - `map/`: CSV layout files representing different layers of the world map.
-
-## Credits & Acknowledgments
-
-Developed as an educational project based on the top-down RPG Pygame tutorial series. All art assets, audio, and gameplay logic are bundled locally and ready to play.
