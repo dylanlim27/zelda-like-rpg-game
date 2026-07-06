@@ -50,20 +50,3 @@ Run the main game script from the project root directory:
 ```bash
 python code/main.py
 ```
-
-## Project Structure
-
-- `code/`: Contains the game source code.
-  - `main.py`: Entry point of the game, handles the main loop.
-  - `level.py`: Manages the game level, map setup, and sprite interactions.
-  - `player.py`: Player class, inputs, animation, and status.
-  - `enemy.py`: Monster AI behaviors, stats, and states.
-  - `entity.py`: Shared base class for movement and collision.
-  - `settings.py`: Game constants, configuration, and dynamic path loader.
-  - `support.py`: Helper functions for importing CSV maps and image folders.
-  - `ui.py` & `upgrade.py`: Handles HUD overlays and the upgrade menu.
-  - `weapon.py`, `magic.py`, `particles.py`: Weapon objects, spell effects, and particle animation player.
-  - `tile.py`: Wall, obstacle, and interactive tiles.
-- `graphics/`: Sprites, tile sets, fonts, and animation sheets.
-- `audio/`: Background music, combat sounds, and magic effects.
-- `map/`: CSV layout files representing different layers of the world map.
